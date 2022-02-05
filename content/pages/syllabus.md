@@ -50,44 +50,442 @@ Grading
 
 Grading will be evenly distributed:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Section participation | 20% |
-| Four written assignments (20% each) | 80% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Section participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four written assignments (20% each)
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Framing the brain**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| 2 | Neuroscience in historical context I | &nbsp; |
-| 3 | Neuroscience in historical context II | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Picturing the brain (neuroimaging) {{< br >}}{{< br >}} _Guest lecture by Hans Breiter, MD, PhD, Massachusetts General Hospital_ {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Public circulation of brain images | &nbsp; |
-| {{< td-colspan 3 >}}**II. Making brains mean**{{< /td-colspan >}} |||
-| 6 | Computer as brain, brain as computer | &nbsp; |
-| 7 | Rational brain, impulsive brain | &nbsp; |
-| 8 | The moral brain | Paper 1 due |
-| 9 |  {{< br >}}{{< br >}} The empathic brain (social neuroscience) {{< br >}}{{< br >}} _Guest lecture by Susan Lanzoni, PhD_ {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Finding god in the brain (Neurotheology) | &nbsp; |
-| 11 | The brain on love | &nbsp; |
-| 12 | Male and female brains | &nbsp; |
-| 13 | Homosexual brains | &nbsp; |
-| {{< td-colspan 3 >}}**III. Social problems: problematic brains**{{< /td-colspan >}} |||
-| 14 | The addicted brain | Paper 2 due |
-| 15 | The stressed brain | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Prejudice in the brain? {{< br >}}{{< br >}} _Guest lecture by Emile Bruneau, PhD_ {{< br >}}{{< br >}}  | &nbsp; |
-| 17 | Violence in the brain? | &nbsp; |
-| {{< td-colspan 3 >}}**IV. Interventions**{{< /td-colspan >}} |||
-| 18 |  {{< br >}}{{< br >}} Brains on the stand {{< br >}}{{< br >}} _Guest lecture by Ruth Greenberg, Esq._ {{< br >}}{{< br >}}  | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} Crime and punishment {{< br >}}{{< br >}} _Guest lecture by Monty Brower, MD_ {{< br >}}{{< br >}}  | &nbsp; |
-| 20 | Disciplining the brain | Paper 3 (rewrite) due |
-| 21 | Treating the brain | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Enhancing the brain {{< br >}}{{< br >}} _Guest lecture by Emily Wanderer, graduate student in MIT Science, Techology and Society_ {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | The consumer brain | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Branding the brain (neuromarketing) {{< br >}}{{< br >}} _Guest speaker: Nate Greenslit, PhD_ {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**V. Conclusions: brave new neurosociety?**{{< /td-colspan >}} |||
-| 25 | Neuroethics | &nbsp; |
-| 26 | Final reflections | Paper 4 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Framing the brain**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Neuroscience in historical context I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Neuroscience in historical context II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Picturing the brain (neuroimaging)
+
+_Guest lecture by Hans Breiter, MD, PhD, Massachusetts General Hospital_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Public circulation of brain images
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Making brains mean**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Computer as brain, brain as computer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Rational brain, impulsive brain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The moral brain
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The empathic brain (social neuroscience)
+
+_Guest lecture by Susan Lanzoni, PhD_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Finding god in the brain (Neurotheology)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The brain on love
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Male and female brains
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Homosexual brains
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Social problems: problematic brains**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The addicted brain
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The stressed brain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prejudice in the brain?
+
+_Guest lecture by Emile Bruneau, PhD_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Violence in the brain?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Interventions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Brains on the stand
+
+_Guest lecture by Ruth Greenberg, Esq._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Crime and punishment
+
+_Guest lecture by Monty Brower, MD_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Disciplining the brain
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 (rewrite) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Treating the brain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Enhancing the brain
+
+_Guest lecture by Emily Wanderer, graduate student in MIT Science, Techology and Society_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The consumer brain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Branding the brain (neuromarketing)
+
+_Guest speaker: Nate Greenslit, PhD_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Conclusions: brave new neurosociety?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Neuroethics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final reflections
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
