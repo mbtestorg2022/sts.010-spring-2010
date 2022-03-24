@@ -134,7 +134,7 @@ Computer as brain, brain as computer
 {{< tdopen >}}
 
 
-Gigerenzer, Gerd, and Daniel G. Goldstein. "Mind as Computer: Birth of a Metaphor." _Creativity Research Journal_ 9, nos. 2&3 (1996): 131-144. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 1.4MB](http://www.dangoldstein.com/papers/GigerenzerGoldstein_MindAsComputer_CreativityResJ_1995.pdf))
+Gigerenzer, Gerd, and Daniel G. Goldstein. "Mind as Computer: Birth of a Metaphor." _Creativity Research Journal_ 9, nos. 2&3 (1996): 131-144. ([PDF – 1.4MB](http://www.dangoldstein.com/papers/GigerenzerGoldstein_MindAsComputer_CreativityResJ_1995.pdf))
 
 Montague, Read. Chapter 1 in _Your Brain is (Almost) Perfect: How We Make Decisions_. New York, NY: Plume/Penguin Group, 2007. ISBN: 9780452288843.
 
@@ -176,7 +176,7 @@ The moral brain
 
 Saxe, Rebecca. "[Do the Right Thing: Cognitive Science's Search for a Common Morality](http://bostonreview.net/rebecca-saxe-common-morality-cognitive-science)." _Boston Review_, September/October 2005.
 
-Greene, Joshua, et al. "An fMRI Investigation of Emotional Engagement in Moral Judgment." _Science_ 293 (September 14, 2001): 2105-2108. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.csbmb.princeton.edu/ncc/PDFs/Moral%20Reasoning/Greene%20et%20al%20(Science%2001).pdf))
+Greene, Joshua, et al. "An fMRI Investigation of Emotional Engagement in Moral Judgment." _Science_ 293 (September 14, 2001): 2105-2108. ([PDF](http://www.csbmb.princeton.edu/ncc/PDFs/Moral%20Reasoning/Greene%20et%20al%20(Science%2001).pdf))
 
 Keim, Brandon. "[Brain Scanners Can See Your Decisions Before You Make Them](http://www.wired.com/2008/04/mind-decision/)." _Wired_, April 13, 2008.
 
@@ -365,7 +365,7 @@ _
 
 Burton, Robert. "[We're Prejudiced, Now What?](https://www.salon.com/2007/10/31/prejudice/)" _Salon.com_, October 31, 2007.
 
-Phelps, Elizabeth A., and Laura A. Thomas. "Race, Behavior, and the Brain: The Role of Neuroimaging in Understanding Complex Social Behaviors." _Political Psychology_ 4, no. 4 (2003): 747-758. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1467-9221.2003.00350.x))
+Phelps, Elizabeth A., and Laura A. Thomas. "Race, Behavior, and the Brain: The Role of Neuroimaging in Understanding Complex Social Behaviors." _Political Psychology_ 4, no. 4 (2003): 747-758. ([PDF](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1467-9221.2003.00350.x))
 
 Begley, Sharon. "[How Your Brain Looks at Race](http://www.newsweek.com/id/114741)." _Newsweek_, February 23, 2008.
 
@@ -591,7 +591,7 @@ Neuroethics
 
 Rose, Steven. "The Promise and the Threat," and "Ethics in a Neurocentric World." Chapters 1 and 12 in _The Future of the Brain: The Promise and Perils of Tomorrow's Neuroscience_. New York, NY: Oxford University Press, 2005. ISBN: 9780195154207. \[Preview in [Google Books](http://books.google.com/books?id=WAp_CufbnYMC&pg=PA1)\]
 
-Farah, Martha. "Emerging Ethical Issues in Neuroscience." _Nature Neuroscience_ 5, no. 11 (2002): 1123-1129. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1007&context=neuroethics_pubs&sei-redir=1#search=%22Emerging%20Ethical%20Issues%20Neuroscience%22))
+Farah, Martha. "Emerging Ethical Issues in Neuroscience." _Nature Neuroscience_ 5, no. 11 (2002): 1123-1129. ( [PDF](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1007&context=neuroethics_pubs&sei-redir=1#search=%22Emerging%20Ethical%20Issues%20Neuroscience%22))
 
 "Open Your Mind: The Ethics of Brain Science." _The Economist_. May 23, 2002.
 
